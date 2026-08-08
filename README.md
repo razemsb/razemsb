@@ -1,6 +1,6 @@
 # Hi 👋, I'm razemsb
 
-### An experienced PHP developer
+### An PHP developer
 
 - 🔭 I'm currently working on **https://dev-guide.ru**
 
