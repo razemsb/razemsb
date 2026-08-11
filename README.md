@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **https://dev-guide.ru**
 
-- 👨‍💻 All of my projects are available at **[https://razemsb.ru](https://razemsb.ru)**
+- 👨‍💻 All of my projects are available at **[https://www.phptrash.ru](https://www.phptrash.ru)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
