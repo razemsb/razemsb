@@ -2,7 +2,7 @@
 
 # hi, i'm razemsb
 
-**PHP developer** · Vue, Rust, Java, Python
+**PHP developer** · Vue, TypeScript, Rust, PHP, Laravel, Python
 
 currently building [dev-guide.ru](https://dev-guide.ru) · everything else lives on [phptrash.ru](https://www.phptrash.ru)
 
@@ -19,12 +19,12 @@ currently building [dev-guide.ru](https://dev-guide.ru) · everything else lives
 ### stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,vue,ts,js,html,css,tailwind,java,python,rust,mysql,postgres,git&theme=dark" alt="stack" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,ts,js,html,css,tailwind,python,rust,mysql,postgres,git&theme=dark" alt="stack" />
 </p>
 
 | | |
 | :--- | :--- |
-| **languages** | PHP · Java · Python · Rust · TypeScript · JavaScript |
+| **languages** | PHP · Python · Rust · TypeScript · JavaScript |
 | **frontend** | Vue · HTML · CSS · Tailwind |
 | **backend** | Laravel · MariaDB / MySQL · PostgreSQL |
 | **tools** | Git · Tauri |
