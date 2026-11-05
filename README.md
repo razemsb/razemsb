@@ -4,13 +4,13 @@
 
 **PHP developer** · Vue, TypeScript, Rust, PHP, Laravel, Python
 
-currently building [dev-guide.ru](https://dev-guide.ru) · everything else lives on [phptrash.ru](https://www.phptrash.ru)
+building **[LaX](https://github.com/razemsb/LaX)** — a portable Laragon alternative · **[EFM](https://github.com/razemsb/FileManager)** — file manager for local dev stacks
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/github-razemsb-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/razemsb)
-[![site](https://img.shields.io/badge/phptrash.ru-E02430?style=for-the-badge)](https://www.phptrash.ru)
-[![guide](https://img.shields.io/badge/dev--guide.ru-111111?style=for-the-badge)](https://dev-guide.ru)
+[![LaX](https://img.shields.io/badge/LaX-0.2.0-E02430?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/razemsb/LaX)
+[![EFM](https://img.shields.io/badge/EFM-file_manager-111111?style=for-the-badge)](https://github.com/razemsb/FileManager)
 
 </div>
 
